@@ -1,9 +1,6 @@
-# MACHINE-LEARNING-PRACTICALS
-This repo is a collection of all the machine learning practicals I did while being in 3rd year (5th semester) [2026-27]. 
-
 # 🚀 Machine Learning Practical Programs – README
 ## 📚 Overview
-This README covers interactive Jupyter notebook implementations for various Machine Learning practicals. Each practical is split into a core Experiment (foundational concept) and an accompanying Activity (real-world application/extension).
+This repo is a collection of all the machine learning practicals I did while being in 3rd year (5th semester) [2026-27]. This README covers interactive Jupyter notebook implementations for various Machine Learning practicals. Each practical is split into a core Experiment (foundational concept) and an accompanying Activity (real-world application/extension).
 
 ### 1️⃣ Practical 1 – Decision Trees (Classification & Regression) 🌳
 * **Experiment 1 (practical1.ipynb):** Implements a **DecisionTreeClassifier** using the classic *Iris Dataset* to classify flower species based on physical features.
